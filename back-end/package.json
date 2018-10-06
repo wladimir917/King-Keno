@@ -1,0 +1,25 @@
+{
+  "name": "king-keno",
+  "version": "1.0.0",
+  "description": " King Keno base back-end",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wladimir917/King-Keno.git"
+  },
+  "keywords": [
+    "classic",
+    "keno",
+    "best",
+    "king"
+  ],
+  "author": "Wladimir Fraga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wladimir917/King-Keno/issues"
+  },
+  "homepage": "https://github.com/wladimir917/King-Keno#readme"
+}
