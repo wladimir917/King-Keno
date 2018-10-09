@@ -2,13 +2,14 @@
   "name": "king-keno",
   "version": "1.0.0",
   "description": " King Keno base back-end",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wladimir917/King-Keno.git"
+    "url": "https://github.com/wladimir917/King-Keno.git"
   },
   "keywords": [
     "classic",
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/wladimir917/King-Keno/issues"
   },
-  "homepage": "https://github.com/wladimir917/King-Keno#readme"
+  "homepage": "https://github.com/wladimir917/King-Keno#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
